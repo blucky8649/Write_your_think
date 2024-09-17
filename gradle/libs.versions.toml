@@ -1,5 +1,5 @@
 [versions]
-activity-compose = "1.9.1"
+activity-compose = "1.9.2"
 appcompat = "1.7.0"
 cardview = "1.0.0"
 circleimageview = "3.1.0"
